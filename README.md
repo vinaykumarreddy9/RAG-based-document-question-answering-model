@@ -17,8 +17,8 @@
 1. Clone the repository:
 ```bash
 
-git clone https://github.com/vinaykumarreddy9/LlamaDocChat.git
-cd LlamaDocChat
+git clone https://github.com/vinaykumarreddy9/RAG-based-document-question-answering-model.git
+cd RAG-based-document-question-answering-model
 
 ```
 
